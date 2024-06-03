@@ -1,7 +1,7 @@
 require_relative 'maquina_turing_universal'
-require_relative 'mt_codificada'
+require_relative 'mt_multiplicacao'
 
-entrada = linker + "$" + codificacao_cadeia
+entrada = linker + '$' + codificacao_cadeia
 mt = MTU.new
 
 puts "Entrada:\n #{entrada}"
