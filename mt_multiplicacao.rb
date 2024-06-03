@@ -12,7 +12,7 @@ q8 = 'faaaaaaaaa'
 
 ## estados finais
 ## fb... fbb...
-q9 = 'fbbbbbbbbbb'
+q9 = 'fb'
 
 # símbolo branco
 @br = '_'
